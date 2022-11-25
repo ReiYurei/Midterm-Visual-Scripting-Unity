@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 6f06686badc17af4fb575bbf6cbd69fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReiIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4935
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340104c61c20582469f3a9bc82e3bddf
+      internalID: -556941264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4935
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61973325500ae574eadf1655f2ede5e0
+      internalID: -93869550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4935
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce35ee46d22239b47bc407b43eba7854
+      internalID: 1168762433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4935
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f243431058cd478adb3f65988c2ab
+      internalID: -1495199675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4935
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0d5ecfe0cde94496d9eefdb56ba71
+      internalID: -467960357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3735
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe92f5fa43761b4b9a9ef2f73a4eebe
+      internalID: -1567616477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3735
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d480e68da91c94d8bb59d848b6bb6f
+      internalID: 1437188977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3735
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6620af906bf184a48917051a7a52bd3f
+      internalID: -295864057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3735
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e69bbd7033a74a9c9f2c5f5601ab2
+      internalID: -1467469144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3735
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df660c87ab99027448b75443dc9850a4
+      internalID: -1905644822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2535
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50f8784b68b1d47a189108d6b421e8
+      internalID: -795738961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2535
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ba817dbe3051468b532b7b17c1c66
+      internalID: -1839007558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2535
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bb37685777f043b16c9e410a148aa
+      internalID: -595650870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2535
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43420dbf7d45f44dacf0df38b1a0d41
+      internalID: -298965798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_14
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2535
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06688e4e366f46e4188862f87230a4dd
+      internalID: -1309434039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817190366482724c80722c79bffbd6a
+      internalID: 191935622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1335
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c147fa4a5f873e140ba5bff3f19c3443
+      internalID: 1604844782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1335
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bace49f6585b1549a2d4048dad14ce1
+      internalID: -1135793600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1335
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9317902efb68340a7cc01e27d7ab4f
+      internalID: -1710666511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_19
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1335
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bba4f316635a944d8e91881e0483dc9
+      internalID: 887443123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cdf17a35286d04599418ef9671d4a1
+      internalID: 665336941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 135
+        width: 1200
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71101afae48fb8d48ae9468910924c4b
+      internalID: 1709296756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ReiIdle_21: 1709296756
+      ReiIdle_4: -467960357
+      ReiIdle_20: 665336941
+      ReiIdle_8: -1467469144
+      ReiIdle_9: -1905644822
+      ReiIdle_13: -298965798
+      ReiIdle_15: 191935622
+      ReiIdle_17: -1135793600
+      ReiIdle_6: 1437188977
+      ReiIdle_2: 1168762433
+      ReiIdle_3: -1495199675
+      ReiIdle_14: -1309434039
+      ReiIdle_10: -795738961
+      ReiIdle_11: -1839007558
+      ReiIdle_7: -295864057
+      ReiIdle_16: 1604844782
+      ReiIdle_5: -1567616477
+      ReiIdle_12: -595650870
+      ReiIdle_18: -1710666511
+      ReiIdle_0: -556941264
+      ReiIdle_19: 887443123
+      ReiIdle_1: -93869550
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

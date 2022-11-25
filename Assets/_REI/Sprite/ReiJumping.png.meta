@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 7e670b109e5a70b4d9826c9c78835fd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReiJumping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6075
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f8c8efe41fde94da7f98a45a27eb25
+      internalID: 572626371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6075
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cd15491a533842bd39204eaea463f
+      internalID: -670155527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6075
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645c70444c39f5444a34fde5273106af
+      internalID: 1437724252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6075
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11951389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722abc2db5bd14047bef4f748e054bbe
+      internalID: 2036041539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 6075
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2039375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79af65a4cab854399e050547aa0c5c
+      internalID: -1124722041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4875
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2935729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a361b6a50b2242a3d0a3294195f4a
+      internalID: 404966875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4875
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39352646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2fd150c0883bf4ab7a0b1deed52e0c
+      internalID: -1671470575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4875
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45397916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4d672cb0de5741b17003d9e493c3f
+      internalID: -873714269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4875
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5090069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c7a85561aec5f4f81af481e85abe66
+      internalID: 1675743416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4875
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55027777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a19b08ea83401498b47f5456566c4d
+      internalID: 1875201032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3675
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6018663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f6213609281a40ba54950a46b589a
+      internalID: -1154815770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_11
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3679
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5846701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b30393265ddba4ba946e94788206db
+      internalID: 1514564035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3675
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5605955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a315039915ea4c9ba6692389e2029
+      internalID: 165032871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3675
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4849323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf286bc2fe86ba488179a70af057535
+      internalID: -1947764101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_14
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3675
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40582985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afd4d6590f2595478371eae9dbec545
+      internalID: -28725522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2475
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33360592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931385f90df3eb459fb76eaf1c40d87
+      internalID: 1576239005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2475
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26482117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd3a96ff89ca744b097f8f257715dc
+      internalID: -1048706960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2475
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21323264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ab725d6c60e844a97f5e37d7637ef8
+      internalID: -750288736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2475
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14444792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ae1c868ddebd4b912480abde12c0c
+      internalID: 1769984507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_19
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2475
+        width: 1200
+        height: 1125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09285937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff35fe2cfcdfcb4798664c18c4ed57f
+      internalID: -373795577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1275
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a5b5312a7572418c0501fc92bb558
+      internalID: -729674454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1275
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce6eebe8107be84f9e42f8f25dd7221
+      internalID: -1264584719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1275
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d25bb6957a9a047975683a0ad5e8de
+      internalID: 2020594394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1275
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8af50435e8e01947a8691875ab117fc
+      internalID: 1282655221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_24
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1275
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238712d25ca36a841ae815ce4907468c
+      internalID: 620849966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReiJumping_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 1200
+        height: 1125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8731e4810bb21994f80b6489ba16c462
+      internalID: 233625968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ReiJumping_14: -28725522
+      ReiJumping_5: 404966875
+      ReiJumping_18: 1769984507
+      ReiJumping_11: 1514564035
+      ReiJumping_19: -373795577
+      ReiJumping_2: 1437724252
+      ReiJumping_8: 1675743416
+      ReiJumping_21: -1264584719
+      ReiJumping_23: 1282655221
+      ReiJumping_0: 572626371
+      ReiJumping_6: -1671470575
+      ReiJumping_10: -1154815770
+      ReiJumping_25: 233625968
+      ReiJumping_7: -873714269
+      ReiJumping_1: -670155527
+      ReiJumping_22: 2020594394
+      ReiJumping_12: 165032871
+      ReiJumping_3: 2036041539
+      ReiJumping_17: -750288736
+      ReiJumping_24: 620849966
+      ReiJumping_4: -1124722041
+      ReiJumping_15: 1576239005
+      ReiJumping_20: -729674454
+      ReiJumping_9: 1875201032
+      ReiJumping_13: -1947764101
+      ReiJumping_16: -1048706960
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
